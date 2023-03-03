@@ -16,5 +16,5 @@ Single page HTML CSS JS
 - :checkered_flag: release
 
 ##
-:point_right: https://github.com/zeldinha00/CStats-HTML-CSS-JS
+:point_right: https://zeldinha00.github.io/CStats-HTML-CSS-JS/
 ![image](https://user-images.githubusercontent.com/14182590/222628694-8a6455ce-74f1-405b-91e3-621637d08bb2.png)
